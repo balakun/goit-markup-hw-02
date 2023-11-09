@@ -47,8 +47,8 @@ body {
 .nav_link:focus {
   color: #404bbf;
 }
-.adress_company {
-  font-style: italic;
+.adress-company {
+  font-style: normal;
 }
 
 .adress_mail {
@@ -155,9 +155,9 @@ body {
   letter-spacing: 0.02em;
 }
 
-.portfolio-section{
+/* .portfolio-section{
     background-color: #F4F4FD;
-}
+} */
 .portfolio-main-title {
     
   color: #2e2f42;
