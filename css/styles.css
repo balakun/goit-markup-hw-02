@@ -49,6 +49,10 @@ body {
 }
 .adress-company {
   font-style: normal;
+   color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* .adress_mail {
@@ -67,13 +71,13 @@ body {
   letter-spacing: 0.02em;
 }  */
 
-.contacts{
+/* .contacts{
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 
-}
+} */
 
 .contacts:hover,
 .contacts:focus {
