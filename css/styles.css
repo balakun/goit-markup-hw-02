@@ -55,23 +55,23 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* .contacts{
+.contacts{
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 
-} */
-
-.adress-company:hover,
-.adress-company:focus {
-  color: #404bbf;
 }
 
-/* .contacts:hover,
-.contacts:focus {
+/* .adress-company:hover,
+.adress-company:focus {
   color: #404bbf;
 } */
+
+.contacts:hover,
+.contacts:focus {
+  color: #404bbf;
+}
 
 .hero {
   background-color: #2e2f42;
