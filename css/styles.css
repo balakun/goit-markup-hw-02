@@ -75,13 +75,8 @@ body {
 
 }
 
-.adress_mail:hover,
-.adress_mail:focus {
-  color: #404bbf;
-}
-
-.adress_tel:hover,
-.adress_tel:focus {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 
